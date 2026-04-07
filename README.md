@@ -1,3 +1,6 @@
+# 現在対応中の物
+* 取得先のjsonが固定もので指定してる問題
+
 # NHK News Live Stream Auto-Recorder
 
 NHKニュースのリアルタイム配信（HLS形式）を監視し、配信が行われている間、自動的に `ffmpeg` を用いて録画（無劣化保存）を行うPythonスクリプトです。
