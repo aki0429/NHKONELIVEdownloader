@@ -1,5 +1,6 @@
 # 現在対応中の物
-* 取得先のjsonが固定もので指定してる問題
+* ~~取得先のjsonが固定もので指定してる問題~~
+
 
 # NHK News Live Stream Auto-Recorder
 
