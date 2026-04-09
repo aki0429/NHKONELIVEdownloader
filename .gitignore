@@ -1,7 +1,7 @@
 # Cookieや認証情報を含むファイルを除外
 GithubCookie.txt
 cookies.txt
-
+.env
 # (オプション) 拡張子が .txt のファイルをすべて除外したい場合
 *.txt
 
